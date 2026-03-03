@@ -208,8 +208,8 @@ const pages = [
     }
 ];
 
-const pagess = {
-    group1: {
+const pagess = [
+    {
         name: "Группа 1",
         links: [
             {id: 1, name: "Пусто", path: "/empty1", component: <EmptyPage1/>},
@@ -217,6 +217,6 @@ const pagess = {
             {id: 3, name: "Пусто", path: "/empty3", component: <EmptyPage1/>},
         ]
     },
-}
+]
 
 export default pages;

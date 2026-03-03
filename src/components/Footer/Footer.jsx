@@ -6,7 +6,7 @@ function Footer(){
             <p>Всі права не захищені. Не захищено авторськими правами. © {new Date().getFullYear()} Newmy. Посилання на джерело: <a href="https://github.com/toasting-toasts/Newmy-UA" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 
             <div>
-                Особлива дяка:
+                <p>Особлива дяка:</p>
                 <ul>
                     
                     <li><a href="https://github.com/toasting-toasts" target="_blank" rel="noopener noreferrer">toasting-toasts</a> - старший розробник</li>
